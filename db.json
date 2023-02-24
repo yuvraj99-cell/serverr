@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "name": "Yuvraj yadav",
+      "email": "yyyuvraj1@gmail.com",
+      "designation": "dev",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "designation": "ips",
+      "id": 2
+    },
+    {
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "designation": "nalla ",
+      "id": 3
+    }
+  ]
 }
